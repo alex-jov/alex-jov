@@ -6,9 +6,9 @@
 
 🌐 Passionate about networking, web development & cybersecurity
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-06060b?style=for-the-badge&logoColor=00c8ff)](https://alex-jov.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-jov%C3%A9niaux-815a2a3a3/)
-[![Email](https://img.shields.io/badge/📫_Email-06060b?style=for-the-badge&logoColor=00c8ff)](mailto:alex@joveniaux.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06060b?style=for-the-badge)](https://alex-jov.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-06060b?style=for-the-badge)](https://www.linkedin.com/in/alex-jov%C3%A9niaux-815a2a3a3/)
+[![Email](https://img.shields.io/badge/Email-06060b?style=for-the-badge)](mailto:alex@joveniaux.com)
 
 </div>
 
@@ -84,10 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alex-jov&show_icons=true&bg_color=06060b&title_color=00c8ff&text_color=7a7a8e&icon_color=00c8ff&border_color=1a1a2e&hide_border=false&ring_color=00c8ff" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-jov&layout=compact&bg_color=06060b&title_color=00c8ff&text_color=7a7a8e&border_color=1a1a2e&hide_border=false" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alex-jov&background=06060b&border=1a1a2e&stroke=1a1a2e&ring=00c8ff&fire=00c8ff&currStreakNum=e8e8ef&sideNums=e8e8ef&currStreakLabel=00c8ff&sideLabels=7a7a8e&dates=4a4a5e" height="170" />
 
 </div>
 
