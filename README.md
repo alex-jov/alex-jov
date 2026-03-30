@@ -63,7 +63,8 @@
 | | Certificate | Issuer | Year |
 |---|---|---|---|
 | ✅ | Python Essentials 1 | Cisco Networking Academy | 2025 |
-| 🔄 | CCNA | Cisco Networking Academy | *in progress* |
+| ✅ | Python Essentials 2 | Cisco Networking Academy | 2026 |
+| ✅ | CCNA SRWE | Cisco Networking Academy | 2026 |
 | ✅ | SecNumAcadémie | ANSSI | 2025 |
 
 ---
@@ -75,18 +76,8 @@
 | 🗺️ | [**Pathfinding Visualizer**](https://github.com/alex-jov/pathfinding-visualizer) | Interactive Dijkstra & A* visualizer with maze generation | React, Vite, Tailwind |
 | 📊 | [**Algorithm Visualizer**](https://github.com/alex-jov/algo-visualizer) | Sorting algorithm visualizer with sound & animations | React, Vite, Web Audio |
 | 🎬 | [**AI Video Upscaler**](https://github.com/alex-jov/fully-local-video-ai-upscaler) | Local AI-powered video upscaling with Real-ESRGAN | Python, FFmpeg, Tkinter |
-| 🔌 | [**WebSocket Test**](https://github.com/alex-jov/simple-websocket-test) | Real-time bidirectional communication test tool | JavaScript, Node.js |
+| 🛰️ | [**Orbital Tracker**](https://github.com/alex-jov/orbital-tracker) | Real-time 3D satellite tracker with 10,000+ satellites | Three.js, JavaScript, WebGL |
 | 🌐 | [**Portfolio**](https://github.com/alex-jov/alex-jov.github.io) | Personal portfolio with particle network animation | HTML, CSS, JS |
-
----
-
-### 📈 `> cat stats.log`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-jov&layout=compact&bg_color=06060b&title_color=00c8ff&text_color=7a7a8e&border_color=1a1a2e&hide_border=false" height="170" />
-
-</div>
 
 ---
 
