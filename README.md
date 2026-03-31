@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 `> whoami`
 
-18 y/o student currently pursuing a **BUT in Networks & Telecommunications** at IUT de Béthune (Université d'Artois). Self-taught web developer since 2020 and PHP enthusiast since 2018. I enjoy building things, breaking things, and understanding how things work under the hood. 🔧
+18 y/o student currently pursuing a **BUT in Networks & Telecommunications** at IUT de Béthune (Université d'Artois). Self-taught web developer since 2020 and PHP enthusiast since 2018.
 
 ---
 
