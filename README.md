@@ -83,8 +83,6 @@
 
 <div align="center">
 
-⚡ *Currently learning everything I can about networks, security, and making cool things on the web.* ⚡
-
 <img src="https://komarev.com/ghpvc/?username=alex-jov&color=00c8ff&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
